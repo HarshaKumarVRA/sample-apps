@@ -1,0 +1,5 @@
+.DoneList {
+    display: flex;
+    /* align-content: flex-start; */
+    padding: 10px;
+}

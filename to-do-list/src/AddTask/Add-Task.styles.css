@@ -1,0 +1,15 @@
+.AddTask {
+    display: flexbox;
+    align-content: flex-start;
+    padding: 10px;
+}
+
+.AddTask.TaskElement {
+    display: flex;
+    padding: 5px;
+}
+
+.AddTask.TaskButton {
+    display: inline;
+    padding: 5px;
+}

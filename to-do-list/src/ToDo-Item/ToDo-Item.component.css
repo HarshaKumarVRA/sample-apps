@@ -1,0 +1,28 @@
+.ToDoItem {
+    /* background-color: green;
+    border-color: green; */
+    display: flex;
+    align-content: flex-start;
+    padding: 5px;
+    gap:10px;
+    column-gap: 10px ;
+    column-gap: 10px ;
+  }
+  
+.DueDate {
+  background-color: white;
+  border: 1px solid rgb(8, 8, 8);
+  border-radius: 25px;
+  padding: 4px;
+}
+
+.DueDate.afterdue {
+  color: red;
+
+}
+
+.form-switch.form-check-input {
+  background-color: green;
+  border-color: green;
+
+}
